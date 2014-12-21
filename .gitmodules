@@ -19,3 +19,6 @@
 [submodule "1602_PCF8574_CPP"]
 	path = 1602_PCF8574_CPP
 	url = https://github.com/jchuang1977/1602_PCF8574_CPP.git
+[submodule "gpio_expander"]
+	path = gpio_expander
+	url = https://github.com/sumotoy/gpio_expander.git

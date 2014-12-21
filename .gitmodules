@@ -10,3 +10,6 @@
 [submodule "Pi2c"]
 	path = Pi2c
 	url = https://github.com/JohnnySheppard/Pi2c.git
+[submodule "MAX7312"]
+	path = MAX7312
+	url = https://github.com/sunrutcon/MAX7312.git

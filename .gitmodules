@@ -13,3 +13,9 @@
 [submodule "MAX7312"]
 	path = MAX7312
 	url = https://github.com/sunrutcon/MAX7312.git
+[submodule "PCF8574_LCD"]
+	path = PCF8574_LCD
+	url = https://github.com/Andvari/PCF8574_LCD.git
+[submodule "1602_PCF8574_CPP"]
+	path = 1602_PCF8574_CPP
+	url = https://github.com/jchuang1977/1602_PCF8574_CPP.git

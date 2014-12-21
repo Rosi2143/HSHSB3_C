@@ -1,0 +1,6 @@
+[submodule "DS1621"]
+	path = DS1621
+	url = https://github.com/TommasoS/DS1621.git
+[submodule "i2cRaspi"]
+	path = i2cRaspi
+	url = https://github.com/wintzx/i2cRaspi.git

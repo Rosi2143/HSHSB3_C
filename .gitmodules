@@ -4,3 +4,9 @@
 [submodule "i2cRaspi"]
 	path = i2cRaspi
 	url = https://github.com/wintzx/i2cRaspi.git
+[submodule "lsquaredc"]
+	path = lsquaredc
+	url = https://github.com/jwr/lsquaredc.git
+[submodule "Pi2c"]
+	path = Pi2c
+	url = https://github.com/JohnnySheppard/Pi2c.git

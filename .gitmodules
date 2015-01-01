@@ -22,3 +22,6 @@
 [submodule "gpio_expander"]
 	path = gpio_expander
 	url = https://github.com/sumotoy/gpio_expander.git
+[submodule "ds1631"]
+	path = ds1631
+	url = https://github.com/ricklon/ds1631.git
